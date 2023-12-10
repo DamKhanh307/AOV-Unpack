@@ -3,7 +3,6 @@ import os
 import sys
 import zipfile
 import shutil
-#from Com_Actor import Compress_Actor
 try:
 	import pyzstd
 	import colorama
@@ -32,7 +31,7 @@ def Compress_Actor():
                 zipf.write(file_path, arcname=os.path.basename(file_path))
     
     DIR = '/storage/emulated/0/AOV UNPACKED/'
-    files_by_prefix = {}  # Tạo một từ điển để nhóm các tệp tin theo ba chữ số đầu
+    files_by_prefix = {}
     
     for file in os.listdir(DIR):
         if file.endswith('.bytes') and file[:3].isdigit():
@@ -46,6 +45,18 @@ def Compress_Actor():
     for prefix, file_paths in files_by_prefix.items():
         zip_path = os.path.join(DIR, f'Actor_{prefix}_Infos.pkg.bytes')
         zip_files(file_paths, zip_path)
+def FindValue(String):
+	String = String.rstrip()
+	String = String[String.find(':')+1:]
+	value = String.replace(' ','')
+	return value
+with open('/storage/emulated/0/AutoMod/skin_want_mod.txt','r',encoding='utf-8') as f:
+	dk = f.read()
+hero_list = open('/storage/emulated/0/AutoMod/skin_list.txt','r',encoding='utf-8')
+for hero_code in hero_list:
+	if hero_code.startswith(dk):
+		val = FindValue(hero_code)
+		val = val.split(',')
 def Remove():
 	DIR = os.getcwd()
 	for file in os.listdir(DIR):
@@ -59,10 +70,11 @@ def usage() -> None:
     print("\t-d, --decompress\tDecompress Zstd")
 
 def main() -> None:
-    print("\033[1;32m------------------------------------------------------------")
-    print("\033[1;32m==============>\033[1;31mTool Giải mã & Mã hoá File AOV\033[1;32m<==============")
+    print("\033[1;32m  ------------------------------------------------------------")
+    print("\033[1;32m  ==============>\033[1;31mTool Giải mã & Mã hoá File AOV\033[1;32m<==============")
+    print("\033[1;32m  -----------------------------BY-DK--------------------------")
     print("\n ")
-    print("\n------------------------------------------------------------")
+    print("\n  ------------------------------------------------------------")
     print('''\033[1;92;40m \t\t\tChọn Chế Độ:
 	        1: Effects      2: Actor      3: Orther''')
 
@@ -80,13 +92,20 @@ def main() -> None:
     if not args:
         mode_work = input('\n\n\t\tChế Độ Hoạt Động:')
         if mode_work == '2':
-        	relative_path = value[0]
+        	relative_path = val[0]
         	args = (os.path.join('/storage/emulated/0/AOV UNPACKED/Prefab_Hero/', relative_path), )
         elif mode_work == '1':
-        	relative_path = value[0]
+        	relative_path = val[0]
         	args = (os.path.join('/storage/emulated/0/AOV UNPACKED/', relative_path,'skill/'), )
         elif mode_work == '3':
-        	relative_path = input(" 📂 \033[1;33mNhập thư mục : ")
+        	DIR ='/storage/emulated/0/AOV UNPACKED/'
+        	dict_for_name = []
+        	for f in os.listdir(DIR):
+        		dict_for_name.append(f)
+        	for index, value in enumerate(dict_for_name, start=0):
+        		print(f"\t\t{index} : {value}")
+        	user_choice = int(input('Nhập Số Của Folder Cần:'))
+        	relative_path = dict_for_name[user_choice]
         	args = (os.path.join('/storage/emulated/0/AOV UNPACKED/', relative_path), )
         	
     args = set(args)

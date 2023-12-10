@@ -1,0 +1,982 @@
+105: Toro 
+10502: Trung Phong Cắm
+    
+
+106: Krixi 
+10602: Xứ Sở Thần Tiên    
+
+10603: Tiệc Bãi Biển  
+
+10604: Cô Tiên Thỏ 
+10606: Tiểu Yêu Nữ 
+
+10607: Nữ Hoàng Thiên Nga  
+
+10611: Lốc Xoáy Kinh Hoàng Tatsumaki  
+
+10612: Skin?
+13116: Tuyệt Thế Thần Binh
+10613: Nàng Tiên Nổi Loạn 
+10703: Hiệp Sĩ Bí Ngô 
+
+10704: Dung Nham 
+
+10705: Siêu Việt  
+
+10709: Inosuke Hashibira 
+
+15711: Raz Gon
+
+108: Gildur 
+10801: Tiệc Bãi Biển
+10806: Bác Học Thiên Tài 
+
+    
+
+109: Veera 
+10902: Goá Phụ Giả Kim 
+
+10903: Nàng Dơi Tuyết 
+
+10904: Y Tá Bạo Loạn
+10906: Vũ Hội Bóng Đêm  
+
+10907: Kimono
+
+10908: Vũ Điệu Samba 
+
+10911: Nữ Hoàng Bóng Đếm 
+
+    
+
+110: Kahlii 
+1103: Skin? 
+
+11003: Quàng Khăn Đỏ 
+
+11004: Kim Cô Giáo Chủ 
+
+111: Violet 
+
+11101: Nữ Hoàng Pháo Hoa 
+11103: Phi Công Trẻ 
+
+11104: Mèo Siêu Quậy -602b
+
+11105: Tiệc Bãi Biển  
+11107: Thứ Nguyên Vệ Thần  -632b
+
+11108: Pháo Hoa Neon -642b
+
+11109: Đặc Dị -6652b
+
+11110: Vợ Người Ta  -662b
+
+11111: Tay Súng Siêu Phàm
+11113: Huyết Ma Thần  
+
+11114: Lam Tước  
+
+11115: Thần Long Tỷ Tỷ  
+
+11116: DJ Câu Hồn 
+
+    
+
+112: Yorn 
+11202: Thế Tử Nguyệt Tộc  
+
+11203: Đặc Nhiệm SWAT 
+
+11204: Phá Vân Tiễn  
+
+11205: Long Thần Soái  
+
+11206: Nam Thần Giáng Sinh  
+
+11207: Soái Ca Học Đường 
+11209: Lục Nguyệt Cung 
+11212: Tư Lệnh Chiến Hạm  
+11502: Dạ Xoa Vương
+11503: Hoả Nhãn Ma Vương 
+11604: Nữ Quái Nổi Loạn  
+11605: Quận Chúa Đế Chế 
+
+11606: Đông Êm Đềm 
+
+11607: Phượng Cửu Thiên  
+
+11608: Cẩm Y Vệ: Chu Tước 
+
+11610: Asuna Tia Chớp 
+
+11611: Stacia  
+
+11613: Gánh Anh Đến Cùng  
+
+11614: Kim Ngư Thần Nữ  
+117: Ormarr 
+11703: Thông Thoả Thích 
+
+11704: Giáo Viên Thể Hình 
+    
+
+118: Alice 
+11802: Phi Hành Gia 
+
+11803: Bé Gấu Tuyết 
+
+11808: Bé Du Xuân 
+
+11808: Skin?  
+
+11809: Tiểu Tiên Tử
+11811: ChiBi-Usa 
+119: Mganga 
+11902: Tiệc Bánh Kẹo 
+
+11903: Pháp Sư Mèo 
+    
+
+120: Mina 
+12002: Chị Đại Lắm Chiêu 
+
+12003: Tiệc Bánh Kẹo 
+
+12004: Kẹo Hay Ghẹo 
+
+12005: Lưỡi Hái Hoàng Kim 
+12007: Nữ Thần Ai Cập 
+
+12008:Linh Xà Yêu Vũ 
+121: Marja 
+    
+
+123: Maloch 
+
+12301: Ác Ma Địa Ngục 
+12303: Samurai Tử Sĩ 
+
+12304: Đại Tướng Rô Bốt  
+
+12305: Ông Kẹ Bí Ngô 
+12307: Vũ Hội Bóng Đêm 
+13015: Thứ Nguyên Vệ Thần
+    
+
+124: Ignis 
+
+126: Arduin 
+    
+
+127: Azzen'Ka 
+
+12701: Hoàng Tử Cát  
+12703: Ghẹo Hay Kẹo 
+
+12704: Quỷ Diện Lãng Khách 
+
+    
+
+128: Lữ Bố 
+
+12801: Tiệc Bãi Biển 
+
+12802: Nam Vương 
+
+12806: Tư Lệnh Robot  
+12808: Ichigo Kurosaki 
+
+12809: Thần Ngọc
+
+12810: Vũ Điệu Samba 
+
+    
+
+129: Triệu Vân 
+
+12901: Chiến Binh Công Nghệ  
+12903: Quý Công Tử 
+
+12904: Dũng Sĩ Đồ Long 
+12906: Chiến Tướng Mùa Đông 
+
+12907: Kỵ Sĩ Tận Thế  
+
+12908: Cẩm Y Vệ: Hoả Long
+
+    
+
+130: Airi 
+
+13001: Thích Khách
+13004: Cấm Vệ Nguyệt Tộc    
+
+13005: Kiemono  
+
+13006: Bạch Kiemono  
+13008: Tiệc Bãi Biển  
+
+13009: Mỵ Hồ 
+
+13010: Đặc Công Tử Diệp 
+
+13011: Bích Hải Thánh Nữ
+13013: Thánh Nữ Xiêm La 
+
+    
+
+131: Murad 
+13102: M-TP Thần Tượng Học Đường 
+
+13103: Đồ Thần Đao 
+
+13104: Siêu Việt  
+
+13108: Siêu Việt 2.0  
+
+13109: Chí Tôn Thần Kiếm -3533
+
+13110: Dược Sĩ Tình Yêu  
+
+13111: Byakuya Kuchiki 
+
+13112: Zenitsu Agatsuma  
+
+13113: Thích Khách Sa Mạc 
+
+    
+
+132: Hayate 
+13202: Chiến Binh Trăng Khuyết 
+
+13203: Ngân Lang 
+
+13204: Tử Thần Vũ Trụ  
+
+13205: Quỷ Diện 
+
+13206: Kim Ưng Sát Thủ 
+13208: Bạch Vô Thường 
+
+13209: Bóng Người Dưới Trăng 
+
+13210: Tu Di Thánh Đế 
+133: Valhein 
+13302: Vũ Khí Tối Thượng 
+
+13304: Đại Công Tước
+13307: Khiêu Chiến 
+
+13308: Cá Mập "Nghiêm Túc" 
+
+13309: Hoàng Tử Băng 
+
+13310: Thần Tài 
+
+13311: Xạ Thần Kagutsuchi  
+
+    
+
+134: Skud 
+135: Thane 
+13502: Hiệp Sĩ Hoàng Kim  
+13504: Mật Vụ 
+13602: Thần Mặt Trời 
+
+13603: Hồng Hoa Hậu 
+
+13604: Thiên Nữ Áo Dài 
+137: Paine 
+
+    
+
+139: Kil'Groth 
+
+140: Superman 
+14002: Bất Công Lý 
+
+    
+
+141: Lauriel 
+14102: Hoả Phượng Hoàng 
+
+14103: Phù Thuỷ Bí Ngô 
+
+14104: Thánh Quang Sứ  
+
+14105: Hoa Khôi Giáng Sinh 
+
+14106: Lạc Thần 
+
+14107: Tinh Vân Sứ   
+
+14108: Tiệc Bãi Biển 
+
+1419: Thiên Sứ Công Nghệ  
+
+14110: Phi Thiên  
+
+14111: Thứ Nguyên Vệ Thần  
+
+14112: Skin? 
+
+14113: Skin? 
+
+14114: Nữ Vương Học Đường 
+
+14115: Đôi Cánh Nguyệt Thực
+142: Natalya 
+
+14201: Mị Muốn Đi Chơi 
+
+14202: Nghệ Nhân Lân 
+14204: Phó Nháy Nhí Nhảnh 
+
+14205: Quà Quái Quỷ 
+
+14206: Nghiệp Hoả Yêu Hậu
+
+14207: Băng Tâm Thần Nữ 
+
+14208: Nữ Quái Công Nghệ 
+
+14209: Nghệ Sĩ Ma Mị 
+
+    
+
+144: Taara 
+
+14401: Đại Tù Trưởng 
+
+14402: Lam Hải Chiến Nữ 
+
+14403: Hoả Ngọc Nữ Đế 
+
+14404: Tiệc Bãi Biển 
+
+14405: Hồng Môn Đường Chủ 
+    
+
+146: Zill 
+14602: Dung Nham 
+
+14603: Cựu Thần Thiên Hà 
+
+14604: Diệt Nguyệt Tử Sĩ 
+14606: Phong Thần Tu La  
+
+    
+
+148: Preyta 
+14802: Băng Hoả Long Sư 
+    
+
+149: Xeniel 
+
+14904: Ma Sứ Tận Thế 
+
+14905: Tống Lãnh Tinh Hệ 
+    
+
+150: Nakroth 
+
+15001: Chiến Binh Hoả Ngục 
+15003: Bboy Công Nghệ 
+
+15004: Siêu Việt  
+
+15005: Khiêu Chiến 
+
+15006: Quán Quân 
+
+15007: Lôi Quang Sứ  
+
+15008: Tiệc Bãi Biển 
+
+15009: Thứ Nguyên Vệ Thần  
+15012: Killua
+    
+
+152: Điêu Thuyền 
+15202: Tiệc Bãi Biển
+15204: WaVe: Diamonds  
+
+15205: Hoa Hậu 
+
+15206: Phù Thủy Bí Ngô 
+15208: Tà Linh Pháp Trượng 
+
+15209: Mèo Công Nghệ 
+
+15210: Thần Ngọc  
+
+15211: Thất Tịch Tiên Tử  
+
+15212:Usagi
+
+153: Batman 
+15302: Dơi Địa Ngục 
+
+    
+
+154: Yena 
+15402: Thỏ May Mắn  
+
+15403: Chiến Binh Nguyệt Tộc 
+
+15407: Giảng Viên Tình Ái 
+15409: WaVe: Flame  
+
+15410: Giáng Sinh 
+
+15604: Siêu Sao Bóng Rổ  
+    
+
+157: Raz 
+15703: Băng Quyền Quán Quân 
+
+15704: Chiến Thần Muay Thái  
+
+15705: Siêu Việt  
+
+15706: Siêu Cấp Tin Tặc  
+15708: Mãnh Lôi Thần Quyền 
+
+15709: Siêu Sao Bóng Đá
+162: Kriknak 
+16202: Yêu Trùng Cổ Mộ 
+
+16203: ST.L-162 
+    
+
+163: Ryoma 
+16302: Đại Tướng Nguyệt Tộc 
+
+16303: Thanh Long Bang Chủ 
+
+16304: Samurai Huyền Thoại  
+16306: Chiến Binh Cyborg 
+
+16307: Ultraman  
+
+16308: Đặc Nhiệm Giáng Sinh
+
+    
+
+166: Arthur 
+16602: Lãnh Chúa Xương 
+
+16603: Si Tình Kiếm 
+16605: Đặc Cảnh Băng Lôi 
+
+16606: Chiến Binh Trăng Khuyết 
+
+16607: Siêu Việt  
+
+16608: Chiến Binh Trăng Máu 
+
+16609: Tôn Hổ Vô Song 
+
+   
+
+167: Ngộ Không 
+16702: Hoả Nhãn Kim Tinh 
+
+16703: Siêu Việt  
+
+16704: Ngộ Khá Trẩu 
+
+16705: Siêu Việt 2.0  
+
+16706: Đặc Vụ Băng Hầu 
+
+16707: Nhóc Tì Bá Đạo  
+
+16708: Tề Thiên Ma Hầu 
+16710: Tân Niên Võ Thần 
+
+    
+
+168: Lumburr 
+16803: Cự Thần Viễn Cổ 
+    
+
+169: Slimz 
+16902: Chú Thỏ Ngọc 
+
+    
+
+170: Moren 
+17002: Lính Cứu Hoả 
+    
+
+171: Cresh 
+17102: Cá Cắn Cáp 
+
+17103: Đại Sư Sushi 
+
+     
+
+173: Fennik 
+
+17304: Tuần Lộc Láu Lỉnh 
+
+17305: Phi Hành Gia 
+
+174: Joker 
+17402: Vua Hề 
+
+    
+
+175: Grakk 
+
+17501: Thuyền Trưởng Râu Đỏ 
+17503: Chàng Gấu Tuyết 
+
+17504: Đi Vào Lòng Đất 
+
+17505: Mèo "Thần Tài" 
+17507: Tiệc Bãi Biển 
+
+17512: Cận Vệ Mafia 
+
+    
+
+177: Lindis 
+17702: Quang Thánh Tiễn 
+17704: Nữ Vương Pháo Hoa  
+
+180: Max 
+
+18004: Thần Đồng Sinh Hoá 
+    
+
+184: Helen 
+
+18401: Skin? 
+18404: Hotgirl Trà Sữa  
+
+18405: Hồng Liên Tiên Tử 
+186: Teemee 
+    
+
+187: Arum 
+18702: Vũ Khúc Long Hổ  
+
+18703: Linh Tượng Vu Nữ 
+
+18704: Vũ Khúc Thần Sứ  
+
+18705: Thỏ May Mắn 
+
+18706: Nữ Hoàng Gấu Xám 
+
+18708: Quản Lí Tài Năng 
+
+    
+
+189: Krizzix 
+
+    
+
+190: Tulen 
+19002: Tân Thần Thiên Hà  
+19004: Đông Êm Đềm 
+19006: Tân Thần Hoàng Kim  
+
+19007: Chí Tôn Kiếm Tiên  
+19009: Thần Sứ STL-79  
+
+19010: Hoả Thần Long Tộc  
+
+19011: Đại Úy Athanor 
+
+19012: Tân Niên Vệ Thần  
+
+19013:Tiêu Dao Vũ Thần 
+191: Rouie 
+19102: Công Chúa Hoả Long  
+
+    
+
+192: Celica 
+19202: Đếm Cừu  
+
+1924: Skin? 
+
+    
+
+193: Amily 
+19302: Đặc Công Nhện Đỏ 
+
+19304: Thỏ May Mắn 
+
+19305: Võ Thần Thiên Hà 
+
+194: Wiro 
+
+    
+
+195: Enzo 
+19502:Chiến Binh Trăng Khuyết 
+19505:Hồng Hạc Thị Vệ
+
+196: Elsu 
+19603: Guitar Tình Ái
+19604: Chiến Binh Bóng Tối 
+
+19605: Sứ Giả Tận Thế  
+19607: Xạ Thủ Tinh Linh 
+
+    
+
+199: Eland'orr 
+
+19904: Siêu Thám Tử 
+
+19905: Chú Ong Bay Cao  
+
+    
+
+501: Tel'Annas 
+50102: Giám Thị Thân Thiện 
+
+50103: Chung Tình Tiễn 
+50105: Thần Sứ F.E.E-X1  
+
+50106: Cẩm Y Vệ: Phi Ưng 
+50108: Thứ Nguyên Vệ Thần  
+
+50109: Skin?
+
+50110: Công Chúa Mộng Mơ 
+
+50111: Vũ Khúc Yêu Hồ  
+
+50112: Tân Niên Vệ Thần  
+
+50113: Nghìn Lẻ Một Đêm 
+
+50114: Quang Vinh  
+502: Astrid 
+50202: Siêu Sao Bóng Chày 
+
+50206: Thần Trí Tuệ
+503: Zuka 
+
+50301: Khúc Khôn Cầu  
+50303: Giáo Sư Sừng Đỏ 
+50305: Gấu Nhồi Bông 
+50309: Rapper Big Panda 
+50306: Diệt Nguyệt Nguyên Soái
+50308: Mãnh Hổ
+504: Wonder Woman 
+    
+
+505: Baldum 
+50502: Liệt Hoả Dung Nham 
+
+506: Omen 
+50602: Ám Tử Đao 
+
+50603: Quỷ Nguyệt Tướng 
+
+50604: Đao Phủ Tận Thế  
+
+50605: Chiến Binh Trăng Khuyết 
+50607: Nhạc Sĩ Huyền Thoại  
+
+    
+
+507: The Flash 
+
+50701: Tia Chớp Tương Lai 
+
+    
+
+508: Wisp 
+50802: Thỏ Siêu Quậy 
+
+50803: Ếch Nhồi Bông 
+
+5085: Skin? 
+
+50805: Máy Phát Quà 
+
+509: Y'Bneth 
+
+510: Liliana 
+51002: Thần Tượng Âm Nhạc 
+
+51003: Nguyệt Mị Ly  
+
+51004: Tiểu Thơ Anh Đào  
+
+51005: Tân Nguyệt Mị Ly  
+
+51006: Nữ Thần F1 
+
+51007: Tiệc Bãi Biển 
+51009: WaVe: Oscillator  
+511: Ata 
+51105: Skin? 
+
+    
+
+512: Rourke 
+51202: Biệt Đội Siêu Hùng 
+51204: Skin? 
+
+51205: Skin? 
+
+    
+
+513: Zata 
+51302: Sứ Giả Tinh Hệ 
+
+51303: Thần Mặt Trời 
+
+51304: Khiêu Chiến 
+
+51305: Tác Gia Đương Đại  
+
+    
+
+514: Roxie 
+51402: Kèn Ái Tình 
+    
+
+515: Richter 
+51502: Thống Soái Kháng Chiến  
+51504: Thần Kiếm Susanoo  
+
+51506: Nguyện Loan Đao 
+
+    
+
+518: Quillen 
+51802: Đặc Công Mãng Xà
+
+51803: Thống Soái Đế Chế  
+
+51804: Huyết Thủ Nguyệt Tộc 
+51806: Tà Linh Ma Đao 
+
+51807: Hoàng Kim Soái Vương  
+
+51808: Nghịch Thiên Long Đế  
+
+51809: Người Gác Đền
+
+    
+
+519: Annette 
+
+51904: Tiệc Bãi Biển 
+
+51905: Phi Hành Gia  
+520: Veres 
+52002: Gián Điệp Tinh Hệ 
+
+52006: Thuỷ Thần Kiều Diễm 
+
+52007: Kimono  
+
+52008: Phù Thủy Trang Điểm  
+
+52009: Tiệc Bãi Biển 
+521: Florentino 
+52102: Giám Sát Tinh Hệ 
+52105: Seven
+52106: Tà Long Kiếm Sĩ 
+52108: Bá Vương Âm Nhạc  
+
+52109: Skin? 
+
+    
+
+522: Errol 
+52202: Diệt Nguyệt Tiên Phong 
+
+52203: Quái Vật Cương Thi  
+
+52204: Genos  
+
+52205: Huyết Thủ Tu La 
+
+52206: Stream Đến Bao Giờ 
+    
+
+523: D'Arcy 
+52302: Đô Đốc Tinh Hệ 
+
+52303: Pháp Sư Hoả Long 
+
+52304: Tiến Sĩ Thiên Tài 
+
+   
+
+524: Capheny 
+52402: Thần tượng âm nhạc 
+
+52403: Toán Hoá Sinh  
+
+52404: Kimono
+
+52405: Siêu Cấp Tin Tặc 
+
+52406: Phi Hành Gia 
+
+52407: Harley Quinn 
+
+52408: Skin? 
+
+52409: Skin? 
+
+52410: Tử Đinh Hương 
+525: Zip 
+
+52504: Gà Siêu Cấp 
+    
+
+526: Ishar 
+52602: Tiểu Thư Kẹo Ngọt 
+52607: Rồng Bé Bự 
+
+527: Sephera 
+52702: Chiêm Tinh Gia 
+
+52703: Thần Tượng Âm Nhạc 
+
+    
+
+528: Qi 
+52802: Đặc Vụ Cáo Tuyết 
+
+52803: Quán Quân 
+
+    
+
+529: Volkath 
+52902: Ma Kỵ Tử Sĩ 
+
+52903: Xung Thiên Thần Tướng 
+52905: Chiến Thần Ai Cập  
+
+    
+
+530: Dirak 
+53002: Chiến Binh Trăng Khuyết 
+53005: Ông Bầu Showbiz 
+
+53007: Thưởng Hạng S2-2023
+
+    
+
+531: Keera 
+53105: Tiệc Bãi Biển  
+
+5317: Skin? 
+
+53107: Nezuko Kamado  
+532: Thorne 
+53202: Giả Kim Thuật Sư  
+
+53203: Quán Quân 
+
+52304: Tiệc Bãi Biển 
+533: Laville 
+53302: Tay Súng Diệt Thần 
+53304: Xạ Thần Tinh Vệ  
+
+53305: Kim Quy Thần Vương 
+
+53306: Tiệc Bãi Biển  
+
+53307: Sắc Màu Holi 
+
+53308:: Chiến Thần MOBA  
+
+    
+
+534: Dextra 
+53402: Quận Chúa Tuyết 
+
+53403: Sát Thủ Nguyệt Tộc  
+    
+
+535: Sinestrea 
+53502: Tiểu Thư Băng Giá 
+
+53503: WaVe: Dark Currents  
+    
+
+536: Aoi 
+53602: Hoàng Kim Công Chúa  
+
+5364: Skin? 
+53605: Lam Hải Quận Chúa  
+
+53606: Tiểu Thư Mafia  
+
+    
+
+537: Allain 
+
+53701: Hắc Kiếm Sĩ Kirito  
+
+53702: Kirito  
+
+53703: Tuyết Sơn Song Kiếm  
+
+53704: Thần Mặt Trời  
+
+53705: Bạch Kiếm Sĩ 
+
+    
+
+538: Iggy 
+53802: Thần Miêu Thiếu Chủ 
+    
+
+539: Lorion 
+53902: Hỏa Vân Tà Thần 
+
+53903: Quân Vương Bóng Tối 
+
+53904: Quân Vương Ánh Sáng 
+
+    
+
+540: Bright 
+54002: Toshiro Hitsugaya  
+
+54003: Khiêu Chiến 
+
+54004: Mật Vụ Hacker  
+
+   
+
+542: Tachi 
+54402: Đao Khách Vô Tình 
+
+    
+
+543: Aya 
+5433: Skin? 
+
+54302: MC Sóc Nhỏ  
+544: Yan 
+
+54401: Nhà Chế Tác 
+
+54402: Kamado Tanjiro  
+545: Yue 
+54502: Chiêm Tinh Gia  
+546: Terri 
+
+54601: Tiểu Kỳ Lân 
+
+548:Bjian 
+
