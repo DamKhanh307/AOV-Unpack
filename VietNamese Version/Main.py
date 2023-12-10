@@ -1,4 +1,3 @@
-#DK_307
 import getopt
 import os
 import sys
@@ -104,7 +103,7 @@ def main() -> None:
         	for f in os.listdir(DIR):
         		dict_for_name.append(f)
         	for index, value in enumerate(dict_for_name, start=0):
-        		print(f"\t\t{index} : {value}")
+        		print(f"\t\t『{index}』: {value}")
         	user_choice = int(input('Nhập Số Của Folder Cần:'))
         	relative_path = dict_for_name[user_choice]
         	args = (os.path.join('/storage/emulated/0/AOV UNPACKED/', relative_path), )
